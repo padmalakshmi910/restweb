@@ -685,9 +685,10 @@ h1 {
 
 ~~~
 ## OUTPUT:
-![alt text](<Screenshot 2025-09-30 113629.png>)
+![alt text](<Screenshot 2025-09-30 121230.png>)
 ![alt text](<Screenshot 2025-09-30 113647.png>)
 ![alt text](<Screenshot 2025-09-30 113703.png>)
 ![alt text](<Screenshot 2025-09-30 113724.png>)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
